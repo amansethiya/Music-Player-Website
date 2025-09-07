@@ -7,7 +7,7 @@ Welcome to my **Music Player Website** — a simple, responsive front-end projec
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the live site](https://amansethiya.github.io/music-website-player/)
+🌐 [Click here to view the live site](https://amansethiya.github.io/Music-Player-Website/)
 
 ## 🛠️ Tech Stack
 
